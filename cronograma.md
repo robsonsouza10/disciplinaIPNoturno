@@ -164,31 +164,34 @@ Fontes: [src](./Unidade4/src "src")
   - Grupo SE - SENÃO (if - else): demonstração de exemplos: Java e VSCode;  
     - [atividadeAula-GrupoIfElse](Unidade4/atividadeAula.md#grupo-se---senão-if---else "atividadeAula-GrupoIfElse").  
 
-### [Aula_15](Unidade4/aula.md#Aula_15 "31-08-2022 quarta-feira") 31-08-2022 quarta-feira
-
 - demonstração de exemplos: Java e VSCode;  
 - [atividadeAula-GrupoIf](Unidade4/atividadeAula.md#grupo-se-if "atividadeAula-GrupoIf").  
 - [atividadeAula-GrupoIfElse](Unidade4/atividadeAula.md#grupo-se---senão-if---else "atividadeAula-GrupoIfElse").  
 
-### [Aula_16](Unidade4/aula.md#Aula_16 "06-09-2022 terça-feira") 06-09-2022 terça-feira
+
+### [Aula_15](Unidade4/aula.md#Aula_15 "31-08-2022 quarta-feira") 31-08-2022 quarta-feira
 
 - comandos de controle de fluxo: seleção;  
   - Grupo COMPOSTO E e OU (&& e ||): demonstração de exemplos: Java e VSCode;  
     - [atividadeAula-GrupoComposto](Unidade4/atividadeAula.md#grupo-composto-e-e-ou--e- "atividadeAula-GrupoComposto").  
 
-### FERIADO 07-09-2022
-
-### [Aula_17](Unidade4/aula.md#Aula_17 "13-09-2022 terça-feira") 13-09-2022 terça-feira
+### [Aula_16](Unidade4/aula.md#Aula_16 "06-09-2022 terça-feira") 06-09-2022 terça-feira
 
 - comandos de controle de fluxo: seleção;  
   - Grupo ESCOLHA (switch): demonstração de exemplos: Java e VSCode;  
     - [atividadeAula-GrupoEscolha](Unidade4/atividadeAula.md#grupo-escolha-switch "atividadeAula-GrupoEscolha").  
 
-### [Aula_18](Unidade4/aula.md#Aula_18 "14-09-2022 quarta-feira") 14-09-2022 quarta-feira
+### FERIADO 07-09-2022
+
+### [Aula_17](Unidade4/aula.md#Aula_17 "13-09-2022 terça-feira") 13-09-2022 terça-feira
 
 - demonstração de exemplos: Java e VSCode;  
 - [atividadeAula-GrupoComposto](Unidade4/atividadeAula.md#grupo-composto-e-e-ou--e- "atividadeAula-GrupoComposto").  
 - [atividadeAula-GrupoEscolha](Unidade4/atividadeAula.md#grupo-escolha-switch "atividadeAula-GrupoEscolha").  
+
+### [Aula_18](Unidade4/aula.md#Aula_18 "14-09-2022 quarta-feira") 14-09-2022 quarta-feira
+
+- listas de exercícios: [atividadeUri](Unidade4/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade4/atividadeAula.md "atividadeAula").  
 
 ### [Aula_19](Unidade4/aula.md#Aula_19 "14-09-2022 quarta-feira") 14-09-2022 quarta-feira
 
@@ -198,26 +201,23 @@ Fontes: [src](./Unidade4/src "src")
 
 - listas de exercícios: [atividadeUri](Unidade4/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade4/atividadeAula.md "atividadeAula").  
 
-### [Aula_21](Unidade4/aula.md#Aula_21 "18-04-2022 segunda-feira") 21-09-2022 quarta-feira
-
-- listas de exercícios: [atividadeUri](Unidade4/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade4/atividadeAula.md "atividadeAula").  
-
-### [Unidade4-Atividades](Unidade4 "Unidade4-Atividades") Prazo: 26-09-2022 segunda-feira
+### [Unidade4-Atividades](Unidade4 "Unidade4-Atividades") Prazo: 20-09-2022 terça-feira
 
 - [atividadeUri](Unidade4/atividadeUri.md "atividadeUri")  
 - [atividadeAula](Unidade4/atividadeAula.md "atividadeAula")  
 <!-- - liberar exercícios unidade 3 e 4.  -->
 
+
 -----------
 
 ## [Prova1](Prova1 "Prova1")
 
-### [Aula_22](Unidade4/aula.md#Aula_22 "27-09-2022 terça-feira") 27-09-2022 terça-feira
+### [Aula_21](Unidade4/aula.md#Aula_21 "21-09-2022 quarta-feira") 21-09-2022 quarta-feira
 
 - Revisão Prova1  
 <!-- [x] Aviso: Prova1: Lembrete <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-80606270> -->
 
-### [Aula_23](Unidade4/aula.md#Aula_23 "28-09-2022 quarta-feira") 28-09-2022 quarta-feira
+### [Aula_22](Unidade4/aula.md#Aula_22 "21-09-2022 quarta-feira") 21-09-2022 quarta-feira
 
 - Prova1  
 <!-- - Prova 1 - parta A: [entrega](<@@@@> "entrega") no AVA3  -->
@@ -225,12 +225,12 @@ Fontes: [src](./Unidade4/src "src")
 - **liberar material** da próxima unidade (5).  
 <!-- [x] Aviso: Unidades 5 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-59665031> -->
 
-### [Aula_24](Unidade4/aula.md#Aula_24 "04-10-2022 terça-feira") 04-10-2022 terça-feira
+### [Aula_23](Unidade4/aula.md#Aula_23 "27-09-2022 terça-feira") 27-09-2022 terça-feira
 
 - Correção Prova1  
 <!-- [x] Aviso: Prova1 correção <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-58035800> -->
 
-### [Unidade4-Atividades](Unidade4 "Unidade4-Atividades") Prazo: 04-10-2022 terça-feira
+### [Unidade4-Atividades](Unidade4 "Unidade4-Atividades") Prazo: 27-09-2022 terça-feira
 
 - Assistir as videoaulas da Unidades5  
 - Responder o [Unidade5_Questionário]  
@@ -242,13 +242,13 @@ Fontes: [src](./Unidade4/src "src")
 Ementa - comandos de controle de fluxo (Repetição): enquanto (`while`), para (`for`) e faça enquanto (`do - while`).  
 Fontes: [src](./Unidade5/src "src")  
 
-### [Aula_25](Unidade5/aula.md#Aula_25 "05-10-2022 quarta-feira") 05-10-2022 quarta-feira
+### [Aula_25](Unidade5/aula.md#Aula_25 "28-09-2022 quarta-feira") 28-09-2022 quarta-feira
 
 - comandos de controle de fluxo: repetição;  
   - Grupo PARA (for): demonstração de exemplos: Java e VSCode;  
     - [atividadeAula-GrupoFor](Unidade5/atividadeAula.md#grupo-para-for "atividadeAula-GrupoFor").  
 
-### [Aula_26](Unidade5/aula.md#Aula_26 "05-10-2022 quarta-feira") 05-10-2022 quarta-feira
+### [Aula_26](Unidade5/aula.md#Aula_26 "28-09-2022 quarta-feira") 28-09-2022 quarta-feira
 
 - comandos de controle de fluxo: repetição;  
   - Grupo PARA (for): demonstração de exemplos: Java e VSCode;  
@@ -272,16 +272,15 @@ Fontes: [src](./Unidade5/src "src")
 - [Semana Acadêmica](./SemanaAcademica "Semana Acadêmica")  
 -->
 
-### [Aula_30](Unidade5/aula.md#Aula_30 "11-10-2022 terça-feira") 11-10-2022 terça-feira
+### [Aula_30](Unidade5/aula.md#Aula_30 "04-10-2022 terça-feira") 04-10-2022 terça-feira
 
 - comandos de controle de fluxo: repetição;  
   - Grupo PARA (for): demonstração de exemplos: Java e VSCode;  
     - [atividadeAula-GrupoFor](Unidade5/atividadeAula.md#grupo-para-for> "atividadeAula-GrupoFor").  
 - conversa com os alunos (individualmente).  
 
-### FERIADO 12/10/2022  
 
-### [Aula_31](Unidade5/aula.md#Aula_31 "18-10-2022 terça-feira") 18-10-2022 terça-feira
+### [Aula_31](Unidade5/aula.md#Aula_31 "05-10-2022 quarta-feira") 05-10-2022 quarta-feira
 
 - comandos de controle de fluxo: repetição;  
   - Grupo ENQUANTO (while): demonstração de exemplos: Java e VSCode;  
@@ -289,7 +288,7 @@ Fontes: [src](./Unidade5/src "src")
   - Grupo FAÇA ENQUANTO (do while): demonstração de exemplos: Java e VSCode;  
     - [atividadeAula-GrupoDoWhile](Unidade5/atividadeAula.md#grupo-faça-enquanto-do-while "atividadeAula-GrupoDoWhile").  
 
-### [Aula_32](Unidade5/aula.md#Aula_32 "19-10-2022 quarta-feira") 19-10-2022 quarta-feira
+### [Aula_32](Unidade5/aula.md#Aula_32 "05-10-2022 quarta-feira") 05-10-2022 quarta-feira
 
 - comandos de controle de fluxo: repetição;  
   - Grupo ENQUANTO (while): demonstração de exemplos: Java e VSCode;  
@@ -299,7 +298,7 @@ Fontes: [src](./Unidade5/src "src")
 - conversa com os alunos (individualmente).  
 - **liberar material** da próxima unidade (6).  
 
-### [Aula_33](Unidade5/aula.md#Aula_33 "19-10-2022 quarta-feira") 19-10-2022 quarta-feira
+### [Aula_33](Unidade5/aula.md#Aula_33 "11-10-2022 terça-feira") 11-10-2022 terça-feira
 
 - comandos de controle de fluxo: repetição;  
   - Grupo ENQUANTO (while): demonstração de exemplos: Java e VSCode;  
@@ -307,8 +306,10 @@ Fontes: [src](./Unidade5/src "src")
   - Grupo FAÇA ENQUANTO (do while): demonstração de exemplos: Java e VSCode;  
     - [atividadeAula-GrupoDoWhile](Unidade5/atividadeAula.md#grupo-faça-enquanto-do-while "atividadeAula-GrupoDoWhile").  
 
+### FERIADO 12/10/2022
+
 <!-- [x] Aviso: Unidades 6 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-62266455> -->
-### [Unidade5-Atividades](Unidade5 "Unidade5-Atividades") Prazo: 24-10-2022 segunda-feira
+### [Unidade5-Atividades](Unidade5 "Unidade5-Atividades") Prazo: 17-10-2022 segunda-feira
 
 - [atividadeUri](Unidade5/atividadeUri.md "atividadeUri")  
 - [atividadeAula](Unidade5/atividadeAula.md "atividadeAula")  
@@ -322,60 +323,57 @@ Fontes: [src](./Unidade5/src "src")
 Ementa - tipos estruturados: características dos tipos estruturados e vetores (`[]`).  
 Fontes: [src](./Unidade6/src "src")  
 
-### [Aula_34](Unidade6/aula.md#Aula_34 "25-10-2022 terça-feira") 25-10-2022 terça-feira
+### [Aula_34](Unidade6/aula.md#Aula_34 "18-10-2022 terça-feira") 18-10-2022 terça-feira
 
 - [Ambiente de Desenvolvimento Prático - Apoio](./Unidade5/IDEapoio.md "Ambiente de Desenvolvimento Prático - Apoio").  
 - demonstração de exemplos: Java e VSCode;  
 - [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
 
 
-### [Aula_35](Unidade6/aula.md#Aula_35 "26-10-2022 quarta-feira") 26-10-2022 quarta-feira
+### [Aula_35](Unidade6/aula.md#Aula_35 "19-10-2022 quarta-feira") 19-10-2022 quarta-feira
 
 <!-- FIXME: melhorar a descrição do que é feito nos dias desta unidade -->  
 - demonstração de exemplos: Java e VSCode;  
 - [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
 
-### [Aula_36](Unidade6/aula.md#Aula_36 "26-10-2022 quarta-feira") 26-10-2022 quarta-feira
+### [Aula_36](Unidade6/aula.md#Aula_36 "19-10-2022 quarta-feira") 19-10-2022 quarta-feira
 
 - demonstração de exemplos: Java e VSCode;  
 - [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
 
-### [Aula_37](Unidade6/aula.md#Aula_37 "01-11-2022 terça-feira") 01-11-2022 terça-feira
+### [Aula_37](Unidade6/aula.md#Aula_37 "25-10-2022 terça-feira") 25-10-2022 terça-feira
+
+- demonstração de exemplos: Java e VSCode;  
+- [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
+
+### [Aula_38](Unidade6/aula.md#Aula_38 "26-10-2022 quarta-feira") 26-10-2022 quarta-feira
+
+- demonstração de exemplos: Java e VSCode;  
+- [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
+
+### [Aula_39](Unidade6/aula.md#Aula_39 "26-10-2022 quarta-feira") 26-10-2022 quarta-feira
+
+- demonstração de exemplos: Java e VSCode;  
+- [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
+
+### [Aula_40](Unidade6/aula.md#Aula_40 "01-11-2022 terça-feira") 01-11-2022 terça-feira
 
 - demonstração de exemplos: Java e VSCode;  
 - [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
 
 ### FERIADO 02-11-2022
 
-### [Aula_38](Unidade6/aula.md#Aula_38 "08-11-2022 terça-feira") 08-11-2022 terça-feira
-
-- demonstração de exemplos: Java e VSCode;  
-- [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
-
-### [Aula_39](Unidade6/aula.md#Aula_39 "09-11-2022 quarta-feira") 09-11-2022 quarta-feira
-
-- demonstração de exemplos: Java e VSCode;  
-- [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
-
-### [Aula_40](Unidade6/aula.md#Aula_40 "09-11-2022 quarta-feira") 09-11-2022 quarta-feira
-
-- demonstração de exemplos: Java e VSCode;  
-- [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
-
-### FERIADO 15-11-2022
-
-### [Aula_41](Unidade6/aula.md#Aula_41 "16-11-2022 quarta-feira") 16-11-2022 quarta-feira
-
-- demonstração de exemplos: Java e VSCode;  
-- [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
-
-
-### [Aula_42](Unidade6/aula.md#Aula_42 "16-11-2022 quarta-feira") 16-11-2022 quarta-feira
+### [Aula_41](Unidade6/aula.md#Aula_41 "08-11-2022 terça-feira") 08-11-2022 terça-feira
 
 - demonstração de exemplos: Java e VSCode;  
 - [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
 
 <!--
+### [Aula_42](Unidade6/aula.md#Aula_42 "09-11-2022 quarta-feira") 09-11-2022 quarta-feira
+
+- demonstração de exemplos: Java e VSCode;  
+- [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
+
 ### [Aula_43](Unidade6/aula.md#Aula_43 "22-11-2022 terça-feira") 22-11-2022 terça-feira
 
 - demonstração de exemplos: Java e VSCode;  
@@ -391,7 +389,7 @@ Fontes: [src](./Unidade6/src "src")
 - demonstração de exemplos: Java e VSCode;  
 - [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
 -->
-### [Unidade6-Atividades](Unidade6 "Unidade6-Atividades") Prazo: 21-11-2022 segunda-feira
+### [Unidade6-Atividades](Unidade6 "Unidade6-Atividades") Prazo: 08-11-2022 terça-feira
 
 - [atividadeAula](Unidade5/atividadeAula.md "atividadeAula")  
 
@@ -400,19 +398,21 @@ Fontes: [src](./Unidade6/src "src")
 <!-- - liberar exercícios unidade 5 e 6.  -->  
 ## [Prova2](Prova2 "Prova2")
 
-### [Aula_46](Unidade6/aula.md#Aula_46 "22-11-2022 terça-feira") 22-11-2022 terça-feira
+### [Aula_46](Unidade6/aula.md#Aula_46 "09-11-2022 quarta-feira") 09-11-2022 quarta-feira
 
 - Revisão Prova2  
 <!-- [ ] Aviso: Prova2 Lembrete <> -->
 
-### [Aula_47](Unidade6/aula.md#Aula_47 "23-11-2022 quarta-feira") 23-11-2022 quarta-feira
+### [Aula_47](Unidade6/aula.md#Aula_47 "09-11-2022 quarta-feira") 09-11-2022 quarta-feira
 
 - Prova2  
 <!-- - Prova 2 - parta A: [entrega](<@@@@> "entrega") no AVA3  -->
 <!-- - Prova 2 - parta B: [entrega](<@@@@> "entrega") no URI -->
 <!-- [x] Aviso: Trabalho Final: enunciado <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-83236523> -->
 
-### [Aula_48](Unidade6/aula.md#Aula_48 "29-11-2022 terça-feira") 29-11-2022 terça-feira
+### FERIADO 15-11-2022
+
+### [Aula_48](Unidade6/aula.md#Aula_48 "16-11-2022 quarta-feira") 16-11-2022 quarta-feira
 
 - Correção Prova2  
 <!-- [ ] Aviso: Prova2 correção <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-63075365> -->
@@ -424,40 +424,40 @@ Fontes: [src](./Unidade6/src "src")
 
 Desenvolvimento do Trabalho Final que envolve todo o conteúdo da disciplina, mas com um enfoque maior na utilização de Matrizes.  
 
-### [Aula_49](TrabalhoFinal/aula.md#Aula_49 "30-11-2022 quarta-feira") 30-11-2022 quarta-feira
+### [Aula_49](TrabalhoFinal/aula.md#Aula_49 "16-11-2022 quarta-feira") 16-11-2022 quarta-feira
 
 <!-- Definir [equipes](<@@@@> "equipes") no AVA3  .. avisa para não montar equipes na hora da entrega!-->
 - enunciado do [TrabalhoFinal](./TrabalhoFinal "TrabalhoFinal")
 - Exemplos de Matrizes: [src](TrabalhoFinal/src "src").  
 
-### [Aula_50](TrabalhoFinal/aula.md#Aula_50 "30-11-2022 quarta-feira") 30-11-2022 quarta-feira
+### [Aula_50](TrabalhoFinal/aula.md#Aula_50 "22-11-2022 terça-feira") 22-11-2022 terça-feira
 
 - desenvolvimento do trabalho final.  
 
-### [Aula_51](TrabalhoFinal/aula.md#Aula_51 "06-12-2022 terça-feira") 06-12-2022 terça-feira
+### [Aula_51](TrabalhoFinal/aula.md#Aula_51 "23-11-2022 quarta-feira") 23-11-2022 quarta-feira
 
 - desenvolvimento do trabalho final.  
 
-### [Aula_52](TrabalhoFinal/aula.md#Aula_52 "07-12-2022 quarta-feira") 07-12-2022 quarta-feira
+### [Aula_52](TrabalhoFinal/aula.md#Aula_52 "23-11-2022 quarta-feira") 23-11-2022 quarta-feira
 
 - desenvolvimento do trabalho final.  
 
-### [Aula_53](TrabalhoFinal/aula.md#Aula_53 "07-12-2022 quarta-feira") 07-12-2022 quarta-feira
+### [Aula_53](TrabalhoFinal/aula.md#Aula_53 "29-11-2022 terça-feira") 29-11-2022 terça-feira
 
 <!-- [ ] Aviso: Trabalho Final <@@@@> -->
 - desenvolvimento do trabalho final.  
 
 -----------
 
-### [Aula_54](TrabalhoFinal/aula.md#Aula_54 "13-12-2022 terça-feira") 13-12-2022 terça-feira
+### [Aula_54](TrabalhoFinal/aula.md#Aula_54 "30-11-2022 quarta-feira") 30-11-2022 quarta-feira
 
 - apresentação Trabalho Final.  
 
-### [Aula_55](TrabalhoFinal/aula.md#Aula_55 "14-12-2022 quarta-feira") 14-12-2022 quarta-feira
+### [Aula_55](TrabalhoFinal/aula.md#Aula_55 "30-11-2022 quarta-feira") 30-11-2022 quarta-feira
 
 - apresentação Trabalho Final.  
 
-### [Aula_56](TrabalhoFinal/aula.md#Aula_56 "14-12-2022 quarta-feira") 14-12-2022 quarta-feira
+### [Aula_56](TrabalhoFinal/aula.md#Aula_56 "06-12-2022 terça-feira") 06-12-2022 terça-feira
 
 - apresentação Trabalho Final.  
 
