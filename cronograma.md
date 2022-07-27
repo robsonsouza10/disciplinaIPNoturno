@@ -176,7 +176,7 @@ Fontes: [src](./Unidade4/src "src")
   - Grupo COMPOSTO E e OU (&& e ||): demonstração de exemplos: Java e VSCode;  
     - [atividadeAula-GrupoComposto](Unidade4/atividadeAula.md#grupo-composto-e-e-ou--e- "atividadeAula-GrupoComposto").  
 
-###FERIADO 07-09-2022
+### FERIADO 07-09-2022
 
 ### [Aula_17](Unidade4/aula.md#Aula_17 "13-09-2022 terça-feira") 13-09-2022 terça-feira
 
