@@ -368,13 +368,14 @@ Fontes: [src](./Unidade6/src "src")
 
 - demonstração de exemplos: Java e VSCode;  
 - [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
-- **liberar material** da próxima unidade (7).  
+
 
 ### [Aula_42](Unidade6/aula.md#Aula_42 "16-11-2022 quarta-feira") 16-11-2022 quarta-feira
 
 - demonstração de exemplos: Java e VSCode;  
 - [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
 
+<!--
 ### [Aula_43](Unidade6/aula.md#Aula_43 "22-11-2022 terça-feira") 22-11-2022 terça-feira
 
 - demonstração de exemplos: Java e VSCode;  
@@ -389,8 +390,8 @@ Fontes: [src](./Unidade6/src "src")
 
 - demonstração de exemplos: Java e VSCode;  
 - [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
-
-### [Unidade6-Atividades](Unidade6 "Unidade6-Atividades") Prazo: 28-11-2022 segunda-feira
+-->
+### [Unidade6-Atividades](Unidade6 "Unidade6-Atividades") Prazo: 21-11-2022 segunda-feira
 
 - [atividadeAula](Unidade5/atividadeAula.md "atividadeAula")  
 
@@ -399,19 +400,19 @@ Fontes: [src](./Unidade6/src "src")
 <!-- - liberar exercícios unidade 5 e 6.  -->  
 ## [Prova2](Prova2 "Prova2")
 
-### [Aula_46](Unidade6/aula.md#Aula_46 "29-11-2022 terça-feira") 29-11-2022 terça-feira
+### [Aula_46](Unidade6/aula.md#Aula_46 "22-11-2022 terça-feira") 22-11-2022 terça-feira
 
 - Revisão Prova2  
 <!-- [ ] Aviso: Prova2 Lembrete <> -->
 
-### [Aula_47](Unidade6/aula.md#Aula_47 "30-11-2022 quarta-feira") 30-11-2022 quarta-feira
+### [Aula_47](Unidade6/aula.md#Aula_47 "23-11-2022 quarta-feira") 23-11-2022 quarta-feira
 
 - Prova2  
 <!-- - Prova 2 - parta A: [entrega](<@@@@> "entrega") no AVA3  -->
 <!-- - Prova 2 - parta B: [entrega](<@@@@> "entrega") no URI -->
 <!-- [x] Aviso: Trabalho Final: enunciado <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-83236523> -->
 
-### [Aula_48](Unidade6/aula.md#Aula_48 "06-12-2022 terça-feira") 06-12-2022 terça-feira
+### [Aula_48](Unidade6/aula.md#Aula_48 "29-11-2022 terça-feira") 29-11-2022 terça-feira
 
 - Correção Prova2  
 <!-- [ ] Aviso: Prova2 correção <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-63075365> -->
@@ -423,40 +424,40 @@ Fontes: [src](./Unidade6/src "src")
 
 Desenvolvimento do Trabalho Final que envolve todo o conteúdo da disciplina, mas com um enfoque maior na utilização de Matrizes.  
 
-### [Aula_49](TrabalhoFinal/aula.md#Aula_49 "07-12-2022 quarta-feira") 07-12-2022 quarta-feira
+### [Aula_49](TrabalhoFinal/aula.md#Aula_49 "30-11-2022 quarta-feira") 30-11-2022 quarta-feira
 
 <!-- Definir [equipes](<@@@@> "equipes") no AVA3  .. avisa para não montar equipes na hora da entrega!-->
 - enunciado do [TrabalhoFinal](./TrabalhoFinal "TrabalhoFinal")
 - Exemplos de Matrizes: [src](TrabalhoFinal/src "src").  
 
-### [Aula_50](TrabalhoFinal/aula.md#Aula_50 "07-12-2022 quarta-feira") 07-12-2022 quarta-feira
+### [Aula_50](TrabalhoFinal/aula.md#Aula_50 "30-11-2022 quarta-feira") 30-11-2022 quarta-feira
 
 - desenvolvimento do trabalho final.  
 
-### [Aula_51](TrabalhoFinal/aula.md#Aula_51 "13-12-2022 terça-feira") 13-12-2022 terça-feira
+### [Aula_51](TrabalhoFinal/aula.md#Aula_51 "06-12-2022 terça-feira") 06-12-2022 terça-feira
 
 - desenvolvimento do trabalho final.  
 
-### [Aula_52](TrabalhoFinal/aula.md#Aula_52 "14-12-2022 quarta-feira") 14-12-2022 quarta-feira
+### [Aula_52](TrabalhoFinal/aula.md#Aula_52 "07-12-2022 quarta-feira") 07-12-2022 quarta-feira
 
 - desenvolvimento do trabalho final.  
 
-### [Aula_53](TrabalhoFinal/aula.md#Aula_53 "14-12-2022 quarta-feira") 14-12-2022 quarta-feira
+### [Aula_53](TrabalhoFinal/aula.md#Aula_53 "07-12-2022 quarta-feira") 07-12-2022 quarta-feira
 
 <!-- [ ] Aviso: Trabalho Final <@@@@> -->
 - desenvolvimento do trabalho final.  
 
 -----------
 
-### [Aula_54](TrabalhoFinal/aula.md#Aula_54 "20-12-2022 terça-feira") 20-12-2022 terça-feira
+### [Aula_54](TrabalhoFinal/aula.md#Aula_54 "13-12-2022 terça-feira") 13-12-2022 terça-feira
 
 - apresentação Trabalho Final.  
 
-### [Aula_55](TrabalhoFinal/aula.md#Aula_55 "21-12-2022 quarta-feira") 21-12-2022 quarta-feira
+### [Aula_55](TrabalhoFinal/aula.md#Aula_55 "14-12-2022 quarta-feira") 14-12-2022 quarta-feira
 
 - apresentação Trabalho Final.  
 
-### [Aula_56](TrabalhoFinal/aula.md#Aula_56 "21-12-2022 quarta-feira") 21-12-2022 quarta-feira
+### [Aula_56](TrabalhoFinal/aula.md#Aula_56 "14-12-2022 quarta-feira") 14-12-2022 quarta-feira
 
 - apresentação Trabalho Final.  
 
