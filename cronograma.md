@@ -51,8 +51,7 @@ Fontes: [src](./Unidade1/src "src")
 
 ### [Aula_02](Unidade1/aula.md#Aula_02 "03-08-2022 quarta-feira") 03-08-2022 quarta-feira
 
-- visão geral dos fundamentos da programação de computadores;  
-- conversa individual com os alunos (depois nos exercícios).  
+- visão geral dos fundamentos da programação de computadores;   
 - **liberar material** da próxima unidade (1 e 2).  
 <!-- [x] Aviso: Unidades1e2 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55427636> -->
 
