@@ -11,7 +11,7 @@
 
 Olá, seja bem vindo .. 😁  
 
-Este é o principal material da disciplina de Introdução à Programação, e ele está sendo disponibilizado no GitHub. O conteúdo está dividido em 7 (sete) unidades (pastas), seguindo o proposto no plano de ensino. Cada unidade tem um texto de apoio e suas respectivas videoaulas, e atividades, dependo da unidade.
+Este é o principal material da disciplina de Introdução à Programação, e ele está sendo disponibilizado no GitHub. O conteúdo está dividido em 6 (sete) unidades (pastas), seguindo o proposto no plano de ensino. Cada unidade tem um texto de apoio e suas respectivas videoaulas, e atividades, dependo da unidade.
 
 Para se localizar em relação aos dias de aula e o conteúdo que está sendo passado utilize o arquivo [cronograma.md](cronograma.md) que se encontra na pasta raiz do nosso GitHub.
 
