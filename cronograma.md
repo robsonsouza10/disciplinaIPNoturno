@@ -26,7 +26,7 @@
 [TrabalhoFinal_DefinirEquipes]: <https://ava3.furb.br/mod/forum/view.php?id=573180> "TrabalhoFinal_DefinirEquipes"
 [TrabalhoFinal_entrega]: <https://ava3.furb.br/mod/assign/view.php?id=573181> "TrabalhoFinal_entrega"
 
-[PlanoEnsinoAVA]: <https://ava3.furb.br/course/view.php?id=29222&section=1> "PlanoEnsinoAVA"  
+[PlanoEnsinoAVA]: <https://ava3.furb.br/course/view.php?id=32979&section=1> "PlanoEnsinoAVA"  
 
 <!-- Cronograma -->
 
