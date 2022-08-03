@@ -245,8 +245,8 @@ Não usado __
 
 Entrada __  
     // ter a largura e altura  
-    largura = 3  
-    altura = 7  
+    largura = 5  
+    altura = 3  
 
 Processo __  
     // calcular a área  retangular  
