@@ -21,9 +21,9 @@ Na aula de hoje, entenderemos um pouco mais a respeito do ambiente a ser utiliza
 
 ## Perfil do aluno  
 
-<!--
-Favor responder o [formulário](<https://forms.office.com/Pages/ResponsePage.aspx?id=KiItDNrscEuWCqzvbO0wUln0WMIdJTRDgdaFzW1RRxdUNVdPVUJHVzUwVk9LOVNLVkQxQVo0SEE1Ui4u> "formulário de perfil") para que possamos conhecer melhor o seu perfil.  
--->
+
+Favor responder o [formulário](<https://forms.office.com/r/Vnf1V02my7> "formulário de perfil") para que possamos conhecer melhor o seu perfil.  
+
 
 ## Mostrar VScode  
 
