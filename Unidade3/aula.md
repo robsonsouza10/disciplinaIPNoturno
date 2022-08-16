@@ -18,7 +18,7 @@ Mensagem "do dia", a importância de boas práticas de programação ...
 
 - Boas práticas de programação -> legibilidade do código  
   - [Indentação de código](<https://pt.wikipedia.org/wiki/Indentação> "Indentação de código");  
-  - VSCode Formatar Documento (menu de contexto no código ou teclas ⇧⌥F macOs/Linux e teclas SHIFT+CRTL+F).  
+  - VSCode Formatar Documento (menu de contexto no código ou teclas ⇧⌥F macOs/Linux e teclas SHIFT+CRTL+F / Windows => SHIFT + ALT + F).  
 - [x] Criar um novo projeto no VSCode para representar a Unidade 3 com o nome "Unidade3". Assim, lembrar como criar projeto e classe.  
 - [x] Resgatar conteúdo da Unidade 3 e mostrar o que é classe e o que é o método main de forma superficial. Lembrar que todo o código vai dentro do método main!  
 - [x] Resolver os primeiros exercícios (exemplos) [Atividades - Aula](atividadeAula.md "Atividades - Aula").  
