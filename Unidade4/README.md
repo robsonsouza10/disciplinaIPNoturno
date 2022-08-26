@@ -291,7 +291,6 @@ Videoaula_4 (34:10): [link alternativo](<https://furb-my.sharepoint.com/:v:/g/pe
 - As estruturas de **Seleção Múltipla** permitem avaliar uma entre diversas alternativas​.
 
 ### Exercícios
-- Responda o quiz no AVA3​.
 - Acompanhe os exercício em sala​.
 
 ----------
