@@ -229,7 +229,7 @@ Fontes: [src](./Unidade4/src "src")
 - Correção Prova1  
 <!-- [x] Aviso: Prova1 correção <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-58035800> -->
 
-### [Unidade4-Atividades](Unidade4 "Unidade4-Atividades") Prazo: 28-09-2022 18:30 terça-feira
+### [Unidade4-Atividades](Unidade4 "Unidade4-Atividades") Prazo: 28-09-2022 18:30 quarta-feira
 
 - Assistir as videoaulas da Unidades5  
 - Responder o [Unidade5_Questionário]  
