@@ -14,11 +14,11 @@
 [Prova1_Respostas_parteA]: <https://ava3.furb.br/mod/assign/view.php?id=573173> "Prova1_Respostas_parteA"
 
 [Unidade5_Questionário]: <https://ava3.furb.br/mod/quiz/view.php?id=661510> "Unidade5_Questionário"
-[Unidade5_RespostasAtividadeAula]: <https://ava3.furb.br/mod/assign/view.php?id=573175> "Unidade5_RespostasAtividadeAula"
+[Unidade5_RespostasAtividadeAula]: <https://ava3.furb.br/mod/assign/view.php?id=661511> "Unidade5_RespostasAtividadeAula"
 [Unidade5_RespostasAtividadeURI]: <> "Unidade5_RespostasAtividadeURI"
 
-[Unidade6_Questionário]: <https://ava3.furb.br/mod/quiz/view.php?id=573176> "Unidade6_Questionário"
-[Unidade6_RespostasAtividadeAula]: <https://ava3.furb.br/mod/assign/view.php?id=573177> "Unidade6_RespostasAtividadeAula"
+[Unidade6_Questionário]: <https://ava3.furb.br/mod/quiz/view.php?id=661513> "Unidade6_Questionário"
+[Unidade6_RespostasAtividadeAula]: <https://ava3.furb.br/mod/assign/view.php?id=661514> "Unidade6_RespostasAtividadeAula"
 [Unidade6_RespostasAtividadeURI]: <> "Unidade6_RespostasAtividadeURI"
 
 [Prova2_Respostas]: <https://ava3.furb.br/mod/assign/view.php?id=573178> "Prova2_Respostas"
@@ -310,7 +310,7 @@ Fontes: [src](./Unidade5/src "src")
 <!-- [x] Aviso: Unidades 6 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-62266455> -->
 ### [Unidade5-Atividades](Unidade5 "Unidade5-Atividades") Prazo: 17-10-2022 segunda-feira
 
-- [atividadeUri](Unidade5/atividadeUri.md "atividadeUri")  
+<!-- - [atividadeUri](Unidade5/atividadeUri.md "atividadeUri")  -->
 - [atividadeAula](Unidade5/atividadeAula.md "atividadeAula")  
 - Assistir as videoaulas da Unidades6  
 - Responder o [Unidade6_Questionário]  
