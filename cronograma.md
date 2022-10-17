@@ -308,7 +308,26 @@ Fontes: [src](./Unidade5/src "src")
 ### FERIADO 12/10/2022
 
 <!-- [x] Aviso: Unidades 6 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-62266455> -->
-### [Unidade5-Atividades](Unidade5 "Unidade5-Atividades") Prazo: 17-10-2022 segunda-feira
+
+
+### [Aula_33](Unidade5/aula.md#Aula_33 "18-10-2022 terça-feira") 18-10-2022 terça-feira
+
+- demonstração de exemplos: Java e VSCode;  
+- [atividadeAula](Unidade5/atividadeAula.md "atividadeAula").  
+
+
+### [Aula_33](Unidade5/aula.md#Aula_33 "19-10-2022 quarta-feira") 19-10-2022 quarta-feira
+
+- demonstração de exemplos: Java e VSCode;  
+- [atividadeAula](Unidade5/atividadeAula.md "atividadeAula").  
+
+### [Aula_33](Unidade6/aula.md#Aula_36 "19-10-2022 quarta-feira") 19-10-2022 quarta-feira
+
+- demonstração de exemplos: Java e VSCode;  
+- [atividadeAula](Unidade5/atividadeAula.md "atividadeAula").  
+
+
+### [Unidade5-Atividades](Unidade5 "Unidade5-Atividades") Prazo: 24-10-2022 segunda-feira
 
 <!-- - [atividadeUri](Unidade5/atividadeUri.md "atividadeUri")  -->
 - [atividadeAula](Unidade5/atividadeAula.md "atividadeAula")  
@@ -322,24 +341,25 @@ Fontes: [src](./Unidade5/src "src")
 Ementa - tipos estruturados: características dos tipos estruturados e vetores (`[]`).  
 Fontes: [src](./Unidade6/src "src")  
 
-### [Aula_34](Unidade6/aula.md#Aula_34 "18-10-2022 terça-feira") 18-10-2022 terça-feira
+### [Aula_34](Unidade6/aula.md#Aula_34 "25-10-2022 terça-feira") 25-10-2022 terça-feira
 
 - [Ambiente de Desenvolvimento Prático - Apoio](./Unidade5/IDEapoio.md "Ambiente de Desenvolvimento Prático - Apoio").  
 - demonstração de exemplos: Java e VSCode;  
 - [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
 
 
-### [Aula_35](Unidade6/aula.md#Aula_35 "19-10-2022 quarta-feira") 19-10-2022 quarta-feira
+### [Aula_35](Unidade6/aula.md#Aula_35 "26-10-2022 quarta-feira") 26-10-2022 quarta-feira
 
 <!-- FIXME: melhorar a descrição do que é feito nos dias desta unidade -->  
 - demonstração de exemplos: Java e VSCode;  
 - [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
 
-### [Aula_36](Unidade6/aula.md#Aula_36 "19-10-2022 quarta-feira") 19-10-2022 quarta-feira
+### [Aula_36](Unidade6/aula.md#Aula_36 "26-10-2022 quarta-feira") 26-10-2022 quarta-feira
 
 - demonstração de exemplos: Java e VSCode;  
 - [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
 
+<!--
 ### [Aula_37](Unidade6/aula.md#Aula_37 "25-10-2022 terça-feira") 25-10-2022 terça-feira
 
 - demonstração de exemplos: Java e VSCode;  
@@ -354,6 +374,7 @@ Fontes: [src](./Unidade6/src "src")
 
 - demonstração de exemplos: Java e VSCode;  
 - [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
+-->
 
 ### [Aula_40](Unidade6/aula.md#Aula_40 "01-11-2022 terça-feira") 01-11-2022 terça-feira
 
