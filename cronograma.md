@@ -388,6 +388,8 @@ Fontes: [src](./Unidade6/src "src")
 - demonstração de exemplos: Java e VSCode;  
 - [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
 
+
+
 <!--
 ### [Aula_42](Unidade6/aula.md#Aula_42 "09-11-2022 quarta-feira") 09-11-2022 quarta-feira
 
@@ -417,12 +419,14 @@ Fontes: [src](./Unidade6/src "src")
 
 Desenvolvimento do Trabalho Final que envolve todo o conteúdo da disciplina, mas com um enfoque maior na utilização de Matrizes.  
 
-### [Aula_49](TrabalhoFinal/aula.md#Aula_49 "16-11-2022 quarta-feira") 09-11-2022 quarta-feira
+### [Aula_49](TrabalhoFinal/aula.md#Aula_49 "09-11-2022 quarta-feira") 09-11-2022 quarta-feira
 
 <!-- Definir [equipes](<@@@@> "equipes") no AVA3  .. avisa para não montar equipes na hora da entrega!-->
 - enunciado do [TrabalhoFinal](./TrabalhoFinal "TrabalhoFinal")
 - Exemplos de Matrizes: [src](TrabalhoFinal/src "src").  
 - Tirar dúvidas e finalizar exercícios da unidade6;
+
+### FERIADO 15-11-2022
 
 ### [Unidade6-Atividades](Unidade6 "Unidade6-Atividades") Prazo: 16-11-2022 23:59 terça-feira
 
@@ -443,10 +447,6 @@ Desenvolvimento do Trabalho Final que envolve todo o conteúdo da disciplina, ma
 <!-- - Prova 2 - parta A: [entrega](<@@@@> "entrega") no AVA3  -->
 <!-- - Prova 2 - parta B: [entrega](<@@@@> "entrega") no URI -->
 <!-- [x] Aviso: Trabalho Final: enunciado <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-83236523> -->
-
-### FERIADO 15-11-2022
-
-
 
 
 
