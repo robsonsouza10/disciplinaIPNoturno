@@ -415,26 +415,23 @@ Fontes: [src](./Unidade6/src "src")
 
 -----------
 
-<!-- - liberar exercícios unidade 5 e 6.  -->  
-## [Prova2](Prova2 "Prova2")
 
-### [Aula_46](Unidade6/aula.md#Aula_46 "09-11-2022 quarta-feira") 09-11-2022 quarta-feira
+## [TrabalhoFinal](./TrabalhoFinal "TrabalhoFinal")
 
-- Revisão Prova2  
-<!-- [ ] Aviso: Prova2 Lembrete <> -->
+Desenvolvimento do Trabalho Final que envolve todo o conteúdo da disciplina, mas com um enfoque maior na utilização de Matrizes.  
 
-### [Aula_47](Unidade6/aula.md#Aula_47 "09-11-2022 quarta-feira") 09-11-2022 quarta-feira
+### [Aula_49](TrabalhoFinal/aula.md#Aula_49 "16-11-2022 quarta-feira") 09-11-2022 quarta-feira
 
-- Prova2  
-<!-- - Prova 2 - parta A: [entrega](<@@@@> "entrega") no AVA3  -->
-<!-- - Prova 2 - parta B: [entrega](<@@@@> "entrega") no URI -->
-<!-- [x] Aviso: Trabalho Final: enunciado <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-83236523> -->
+<!-- Definir [equipes](<@@@@> "equipes") no AVA3  .. avisa para não montar equipes na hora da entrega!-->
+- enunciado do [TrabalhoFinal](./TrabalhoFinal "TrabalhoFinal")
+- Exemplos de Matrizes: [src](TrabalhoFinal/src "src").  
 
-### FERIADO 15-11-2022
 
-### [Aula_48](Unidade6/aula.md#Aula_48 "16-11-2022 quarta-feira") 16-11-2022 quarta-feira
 
-- Correção Prova2  
+
+<!--### [Aula_48](Unidade6/aula.md#Aula_48 "16-11-2022 quarta-feira") 16-11-2022 quarta-feira
+
+- Correção Prova2  --> 
 <!-- [ ] Aviso: Prova2 correção <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-63075365> -->
 <!-- [ ] Aviso: Unidades 7 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-62266044> -->
 
@@ -443,12 +440,6 @@ Fontes: [src](./Unidade6/src "src")
 ## [TrabalhoFinal](./TrabalhoFinal "TrabalhoFinal")
 
 Desenvolvimento do Trabalho Final que envolve todo o conteúdo da disciplina, mas com um enfoque maior na utilização de Matrizes.  
-
-### [Aula_49](TrabalhoFinal/aula.md#Aula_49 "16-11-2022 quarta-feira") 16-11-2022 quarta-feira
-
-<!-- Definir [equipes](<@@@@> "equipes") no AVA3  .. avisa para não montar equipes na hora da entrega!-->
-- enunciado do [TrabalhoFinal](./TrabalhoFinal "TrabalhoFinal")
-- Exemplos de Matrizes: [src](TrabalhoFinal/src "src").  
 
 ### [Aula_50](TrabalhoFinal/aula.md#Aula_50 "22-11-2022 terça-feira") 22-11-2022 terça-feira
 
